@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "social-coin9001",
+    "slug": "social-coin9001",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "social-coin9001"
+}
